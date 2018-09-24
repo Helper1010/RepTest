@@ -1,5 +1,5 @@
 import pytest
-from multi import cont
+from ac import soma
 
-def testanocod():
-    assert cont (2,3) == 6
+def testa_soma():
+    assert soma (5,5) == 10
