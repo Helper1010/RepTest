@@ -4,7 +4,7 @@ python:
 script:
   - py.test test.py
 
-afterscript:
+after script:
 notifications:
 reciplents: 
   dieggy689@gmail.com
